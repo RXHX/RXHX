@@ -1,4 +1,5 @@
 ### Hi there 👋
+**  I am a Developer from North America, who is passionate about coding ** 
 
 <!--
 **RXHX/RXHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
