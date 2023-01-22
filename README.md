@@ -1,5 +1,9 @@
 ### Hi there 👋
-**  I am a Developer from North America, who is passionate about coding ** 
+**I am a Developer from North America, who is passionate about coding** 
+**I started my journey of coding as a developer couple of years back during my Undergraduation**
+**I started developing simple applications in andrioid,** 
+| SkillSet | Contributions | Learning
+| ---   | ---  | --- 
 
 <!--
 **RXHX/RXHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
